@@ -48,5 +48,5 @@ int main() {
 	mhs4.cetak();
 
 	system("pause");
-	return 0;
+	return 0;
 }
